@@ -8,7 +8,7 @@
 - 
 
 ## List of Open-Source DataSets
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Xray, MRI, Ultrasound, Whole Slide Images, CTScan, ECG](https://www.centaurlabs.com/open-source-datasets-for-medical-ai)
 
 
 ## List of Open-Source Models
