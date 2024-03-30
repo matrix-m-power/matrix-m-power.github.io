@@ -1,4 +1,6 @@
-# m-power resource page
+# M-POWER Resource Page
+
+The project aims to explore available AI tools and resources to meet the needs of stakeholders (Cross-section of AI and HealthCare) within the [AIM-AHEAD Coordinating Center (ACC)](https://www.aim-ahead.net/). It focuses on promoting innovation and collaboration among AIM-AHEAD members through open-source AI/ML toolkits. Additionally, the project seeks to nurture a community of researchers by providing support and training on M-POWER open-source tools, addressing unmet needs, and facilitating workforce development.
 
 #### open-source data, models, tools, tutorials, publications
 
