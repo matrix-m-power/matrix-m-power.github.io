@@ -38,13 +38,14 @@ The project aims to explore available AI tools and resources to meet the needs o
 
 
 ## List of Open-Source Models
+-[AlphaFold: AlphaFold is a deep learning-based protein structure prediction model] (https://github.com/google-deepmind/alphafold)
+-[BioBERT: BioBERT is a pre-trained language representation model specifically designed for biomedical text(https://github.com/dmis-lab/biobert)
 
 
 
 
 
-
-## Talks & Lectures
+## Talks/Lectures/Seminars
 - [Matrix AI Seminar Series: Mapping the Stroke “RE-Connectome” by Mark Goldberg, MD, Professor of Neurology, Associate Vice President for Strategic Research Initiatives, UT Health San Antonio](https://www.youtube.com/watch?v=HscGcQlZyNg)
 - [Matrix AI Seminar Series: Eye-AI: A New Approach to Quality, Labeling, and Vetting in Radiology by Dr. Kal Clark, University of Texas Health San Antonio](https://www.youtube.com/watch?v=wFkusJPdJzs)
 - [Matrix AI Seminar Series: Computational Methods for Analysis of Functional Brain Images by Dr. Ananth Grama, Purdue University](https://www.youtube.com/watch?v=2g52fiIIyQ4)
@@ -53,4 +54,5 @@ The project aims to explore available AI tools and resources to meet the needs o
 
 
 ## Publications
+## Workshop/Tutorials
 ## Tools
