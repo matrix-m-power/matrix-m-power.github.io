@@ -38,8 +38,8 @@ The project aims to explore available AI tools and resources to meet the needs o
 
 
 ## List of Open-Source Models
--[AlphaFold: AlphaFold is a deep learning-based protein structure prediction model](https://github.com/google-deepmind/alphafold)
--[BioBERT: BioBERT is a pre-trained language representation model specifically designed for biomedical text](https://github.com/dmis-lab/biobert)
+- [AlphaFold: AlphaFold is a deep learning-based protein structure prediction model](https://github.com/google-deepmind/alphafold)
+- [BioBERT: BioBERT is a pre-trained language representation model specifically designed for biomedical text](https://github.com/dmis-lab/biobert)
 
 
 
