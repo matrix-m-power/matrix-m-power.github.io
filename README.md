@@ -45,6 +45,11 @@ The project aims to explore available AI tools and resources to meet the needs o
 
 
 ## Talks & Lectures
+- [Matrix AI Seminar Series: Mapping the Stroke “RE-Connectome” by Mark Goldberg, MD, Professor of Neurology, Associate Vice President for Strategic Research Initiatives, UT Health San Antonio](https://www.youtube.com/watch?v=HscGcQlZyNg)
+- [Matrix AI Seminar Series: Eye-AI: A New Approach to Quality, Labeling, and Vetting in Radiology by Dr. Kal Clark, University of Texas Health San Antonio](https://www.youtube.com/watch?v=wFkusJPdJzs)
+- [Matrix AI Seminar Series: Computational Methods for Analysis of Functional Brain Images by Dr. Ananth Grama, Purdue University](https://www.youtube.com/watch?v=2g52fiIIyQ4)
+- [Matrix AI Seminar Series: Workforce Diversity, Education Informatics, and AI: Challenges, Innovation, and Future Directions by Toufeeq Ahmed Syed, PhD, MS, Associate Professor, Assistant Dean of Education Informatics, McWilliams School of Biomedical Informatics, McGovern Medical School, The University of Texas Health Science Center at Houston](https://www.youtube.com/watch?v=ioMCLOTM49M)
+- [Matrix AI Seminar Series: Data Science for Translational Research by Dr. Debashis Sahoo, PhD Associate Professor Pediatrics and Computer Science and Engineering University of California San Diego.](https://www.youtube.com/watch?v=fm_GMq7X4n4)
 
 
 ## Publications
