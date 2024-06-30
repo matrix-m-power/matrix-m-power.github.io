@@ -39,15 +39,25 @@ The project aims to explore available AI tools and resources to meet the needs o
 
 ## List of Open-Source Models
 - [AlphaFold: AlphaFold is a deep learning-based protein structure prediction model](https://github.com/google-deepmind/alphafold)
+- [ESMFold: protein structure prediction model from Meta AI](https://github.com/facebookresearch/esm?tab=readme-ov-file#esmfold)
+- [OmegaFold: High-resolution de novo Structure Prediction from Primary Sequence](https://github.com/HeliXonProtein/OmegaFold)
 - [BioBERT: BioBERT is a pre-trained language representation model specifically designed for biomedical text](https://github.com/dmis-lab/biobert)
 - [LLaVA-Med: Large Language and Vision Assistant for Biomedicine](https://github.com/microsoft/LLaVA-Med)
 - [medAlpaca: Finetuned Large Language Models for Medical Question Answering](https://github.com/kbressem/medAlpaca)
+- [Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare](https://github.com/williamliujl/Qilin-Med-VL)
+- [Meditron: is a suite of open-source medical Large Language Models (LLMs)](https://github.com/epfLLM/meditron)
+- [Visual Med-Alpaca: an open-source, parameter-efficient biomedical foundation model that can be integrated with medical "visual experts" for multimodal biomedical tasks (https://github.com/cambridgeltl/visual-med-alpaca)
+- [nnU-Net: nnU-Net is a semantic segmentation method that automatically adapts to a given dataset:(https://github.com/MIC-DKFZ/nnUNet)
+- [MedicalNet: provides a series of 3D-ResNet pre-trained models and relative code] (https://github.com/Tencent/MedicalNet?tab=readme-ov-file)
+- [MONAI: MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging] (https://github.com/Project-MONAI/MONAI)
+- [DeepMedic: This project aims to offer easy access to Deep Learning for the segmentation of structures of interest in biomedical 3D scans] (https://github.com/deepmedic/deepmedic)
+- [ChexNet: ChexNet is a deep learning algorithm that can detect and localize 14 kinds of diseases from chest X-ray images](https://github.com/brucechou1983/CheXNet-Keras)
 
 
 
 
 
-## Talks/Lectures/Seminars
+## Talks/Lectures/Seminars (arranged by Matrix-UTSA)
 - [Matrix AI Seminar Series: Mapping the Stroke “RE-Connectome” by Mark Goldberg, MD, Professor of Neurology, Associate Vice President for Strategic Research Initiatives, UT Health San Antonio](https://www.youtube.com/watch?v=HscGcQlZyNg)
 - [Matrix AI Seminar Series: Eye-AI: A New Approach to Quality, Labeling, and Vetting in Radiology by Dr. Kal Clark, University of Texas Health San Antonio](https://www.youtube.com/watch?v=wFkusJPdJzs)
 - [Matrix AI Seminar Series: Computational Methods for Analysis of Functional Brain Images by Dr. Ananth Grama, Purdue University](https://www.youtube.com/watch?v=2g52fiIIyQ4)
@@ -55,6 +65,14 @@ The project aims to explore available AI tools and resources to meet the needs o
 - [Matrix AI Seminar Series: Data Science for Translational Research by Dr. Debashis Sahoo, PhD Associate Professor Pediatrics and Computer Science and Engineering University of California San Diego.](https://www.youtube.com/watch?v=fm_GMq7X4n4)
 
 
-## Publications
-## Workshop/Tutorials
+## Publications (by other)
+- [Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine] (https://arxiv.org/abs/2311.16452)
+- [A Survey on Multimodal Large Language Models] (https://arxiv.org/abs/2306.13549)
+- [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue] (https://arxiv.org/abs/2306.12174)
+## Workshop/Tutorials (Arranged by Matrix M-POWER program)
+ - [1: Introduction to Large Language Models: Healthcare Use Cases (January-24)
+ - [2: Introduction to Computer Vision: Healthcare Use Cases (June-24)
+ - [3: Introduction to Federated Learning: Healthcare Use Cases (June-24)
+
 ## Tools
+-[ColabDesign: Making Protein Design accessible to all via Google Colab](https://github.com/sokrypton/ColabDesign?tab=readme-ov-file)
