@@ -70,9 +70,9 @@ The project aims to explore available AI tools and resources to meet the needs o
 - [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
 - [OphGLM: Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue](https://arxiv.org/abs/2306.12174)
 ## Workshop/Tutorials (Arranged by Matrix M-POWER program)
- - [1: Introduction to Large Language Models: Healthcare Use Cases (January-24)]
- - [2: Introduction to Computer Vision: Healthcare Use Cases (June-24)]
- - [3: Introduction to Federated Learning: Healthcare Use Cases (June-24)]
+ - 1: Introduction to Large Language Models: Healthcare Use Cases (January-24)
+ - 2: Introduction to Computer Vision: Healthcare Use Cases (June-24)
+ - 3: Introduction to Federated Learning: Healthcare Use Cases (June-24)
 
 ## Tools
 -[ColabDesign: Making Protein Design accessible to all via Google Colab](https://github.com/sokrypton/ColabDesign?tab=readme-ov-file)
